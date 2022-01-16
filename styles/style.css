@@ -1,0 +1,47 @@
+html {
+    background-color: #1BD911;
+    font-size: 15px; 
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: black;
+    background-image: url(../images/my-website-pic.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    width: 2000px;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+  }
+
+h1 {
+    text-shadow: darkolivegreen;
+      font-size: 50px;
+      text-align: center;
+      margin: 0;
+      padding: 20px 0;
+      color: #00539F;
+      text-shadow: 50px 30px 20px  black;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#my-id{
+    font-size: 50px;
+    font-weight: 800;
+    font-variant: small-caps;
+    color: aliceblue;
+    width: 50px;
+    margin: 500px;
+}
+
+img[SRC]{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+  
